@@ -1,0 +1,33 @@
+/**
+ * @name RedAccent
+ * @description Black theme with red accent!
+ * @author xan#6250
+ * @version 0.3.0
+ * @website https://gamejolt.com/@XaNslonko
+ * @source https://github.com/xandevv/Betterdiscordstuff
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.theme.css
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 202,62,71;
+  --accentcolor2: 202,62,71;
+  --linkcolor: 255,119,127;
+  --mentioncolor: 202,62,71;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: 'DM Sans';
+  --backgroundaccent: 61,38,40;
+  --backgroundprimary: 22,20,20;
+  --backgroundsecondary: 24,23,23;
+  --backgroundsecondaryalt: 18,18,18;
+  --backgroundtertiary: 18,18,18;
+  --backgroundfloating: 18,18,18;
+  --settingsicons: 1;
+}
