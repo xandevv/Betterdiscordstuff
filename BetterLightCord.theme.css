@@ -1,0 +1,33 @@
+/**
+ * @name BetterLightCord
+ * @description Better Light theme for discord
+ * @author xan#6250
+ * @version 1.1.0
+ * @website https://gamejolt.com/@XaNslonko
+ * @source https://github.com/xandevv/Betterdiscordstuff
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.theme.css
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 202,204,205;
+  --accentcolor2: 111,111,111;
+  --linkcolor: 61,104,109;
+  --mentioncolor: 33,150,243;
+  --textbrightest: 83,83,83;
+  --textbrighter: 69,69,69;
+  --textbright: 53,53,53;
+  --textdark: 22,22,22;
+  --textdarker: 0,0,0;
+  --textdarkest: 0,0,0;
+  --font: 'Rubik';
+  --backgroundaccent: 255,255,255;
+  --backgroundprimary: 214,219,223;
+  --backgroundsecondary: 214,219,223;
+  --backgroundsecondaryalt: 214,219,223;
+  --backgroundtertiary: 214,219,223;
+  --backgroundfloating: 234,236,238;
+  --settingsicons: 1;
+}

@@ -1,0 +1,33 @@
+/**
+ * @name Comfortable
+ * @description Comfortable collor pallete discord theme
+ * @author xan#6250
+ * @version 0.3.0
+ * @website https://gamejolt.com/@XaNslonko
+ * @source https://github.com/xandevv/Betterdiscordstuff
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.theme.css
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 44,62,80;
+  --accentcolor2: 33,47,61;
+  --linkcolor: 0,184,255;
+  --mentioncolor: 255,238,86;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: 'Varela Round';
+  --backgroundaccent: 44,62,80;
+  --backgroundprimary: 23,32,42;
+  --backgroundsecondary: 28,40,51;
+  --backgroundsecondaryalt: 33,47,61;
+  --backgroundtertiary: 39,55,70;
+  --backgroundfloating: 44,62,80;
+  --settingsicons: 1;
+}
